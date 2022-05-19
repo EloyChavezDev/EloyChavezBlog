@@ -7,9 +7,9 @@ export default {
   dateFormat: "dd.MM.yyyy HH:mm",
   socialMedia: {
     facebook: "ozcelikismail",
-    twitter: "ismailozcelik",
-    linkedin: "ismail-özçelik",
-    github: "iozcelik",
+    twitter: "EloyChavezDev",
+    linkedin: "eloychavezdev",
+    github: "EloyChavezDev",
   },
   pageSize: 5,
   categories: [
