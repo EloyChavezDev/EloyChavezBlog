@@ -4,9 +4,10 @@ import Config from "../sarissa.config.cjs";
 ---
 
 <PageLayout pageTitle={Config.menu?.about ?? "About"}>
-  
+  <article class="prose max-w-none">
 
     <img src="public\images\EloyChavez.jpg">
+    [Esta es una imagen de ejemplo](public\images\EloyChavez.jpg)
 
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -68,5 +69,5 @@ import Config from "../sarissa.config.cjs";
       Sodales neque sodales ut etiam sit amet nisl purus. Dictum varius duis at
       consectetur. Eget felis eget nunc lobortis.
     </p>
-  
+  </article>
 </PageLayout>
