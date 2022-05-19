@@ -1,8 +1,8 @@
 export default {
-  siteTitle: "Sarissa Blog",
+  siteTitle: "Eloy Chavez Dev",
   siteDescription: "Responsive Blog Template",
   favicon: "/favicon.ico",
-  siteImagePath: "/images/sarissa.png",
+  siteImagePath: "/images/EloyChavez.jpg",
   footer: "© 1967 - 2022 Sarissa Blog",
   dateFormat: "dd.MM.yyyy HH:mm",
   socialMedia: {
