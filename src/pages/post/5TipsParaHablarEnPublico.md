@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/PostLayout.astro
 title: 5 Tips para perder el miedo a hablar en público remotamente
-image: public\images\perder-miedo-hablar-público-remotamente.jpg
+image: ../public/images/perder-miedo-hablar-público-remotamente.jpg
 date: 2022-08-27 13:44
 categories:
   - Platzi
